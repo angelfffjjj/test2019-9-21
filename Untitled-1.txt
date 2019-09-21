@@ -1,4 +1,10 @@
 把網頁上線:
     1. 把家裡的電腦接上網路，安裝伺服器軟體，二十四小時關機，學習伺服器管理。
     2. Amazon Web Service(AWS)、Google Cloud Platfor,(GCP)
+    3. 簡化版的雲端服務(GitHub Pages)
+
+    主網址：https://angelfffjjj.github.io/test2019-9-21/
+
+    https://angelfffjjj.github.io/test2019-9-21/檔案名稱
+    https://angelfffjjj.github.io/test2019-9-21/home.html
     
